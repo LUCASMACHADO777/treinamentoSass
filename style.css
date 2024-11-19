@@ -1,0 +1,11 @@
+header {
+  background-color: linear-gradient(to left, red , yellow);
+}
+header ul {
+  color: aqua;
+}
+header ul li {
+  color: chocolate;
+}
+
+/*# sourceMappingURL=style.css.map */
